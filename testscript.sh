@@ -4,3 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "Isso vai ser adicionado de verdade."
 echo "ADICIONADO, TESTANDO 2"
+echo "ADICIONADO, TESTANDO 3"
